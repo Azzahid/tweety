@@ -1,11 +1,13 @@
 # Tweety
-Tweety, Twitter Tweet Categorizer.
+Tweety, Twitter Tweet Categorizer. Using KMP and Boyer Moore Algorithm that find matching string.
 
 # About App
 
 This app build with C# and ASP.NET.
 
-App Youtube Review : https://www.youtube.com/watch?v=uGtZCm9duLw
+This app using Twitter API, so you must have token key.
+
+Youtube Review : https://www.youtube.com/watch?v=uGtZCm9duLw
 
 # Created By
 
